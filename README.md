@@ -6,3 +6,6 @@
 
 Xgboost-How to use “mae” as objective function?
 https://stackoverflow.com/questions/45006341/xgboost-how-to-use-mae-as-objective-function
+
+GBDT自定义损失函数
+https://cloud.tencent.com/developer/article/1357671
